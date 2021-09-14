@@ -7,16 +7,15 @@
 На тестирование затрачено: 10 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://docs.google.com/document/d/1FlS0ywbzljO9GxaHTzfw2MOVaI5kkySj_kOMnLBo1ug/edit?usp=sharing
-* 
+* [ссылка на баг-репорт](https://github.com/TaniaKrupnova/QA-java-dz/issues/link)
 
 ## Описание процесса тестирования
 
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
-* 2_000_000_000* 500_000_000= 1_000_000_000_000_000
-* 
+В качестве тестовых данных использовались данные [этого сайта](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:/link)
+* 2_000_000_000* 500_000_000= 1_500_000_000
+
 
 Тестирование производилось в следующем окружении:
 *   Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz,  64-разрядная операционная система, процессор x64
-* <версия Java 11>
+* версия Java 11
