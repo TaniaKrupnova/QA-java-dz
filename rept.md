@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 
-В качестве тестовых данных использовались данные [этого сайта](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:/link)
+В качестве тестовых данных использовались данные [этого сайта](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:/)
 * 2_000_000_000* 500_000_000= 2_500_000_000
 
 
